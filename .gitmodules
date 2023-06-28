@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "handwriter"]
 	path = handwriter
 	url = https://github.com/cran/handwriter
-	shallow = true
-	registered = true
